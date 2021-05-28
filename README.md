@@ -1,7 +1,7 @@
 ## Backend 
 
-The backend is buid using Node.js and socket.io
-Link to backend: https://headervideochat.herokuapp.com/
+The backend is buid using Node.js and socket.io <br>
+Link to backend: https://headervideochat.herokuapp.com/ <br>
 It is been hosted using Heroku
 
 # Getting Started with Create React App
